@@ -1,0 +1,690 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro Missa\n"
+"POT-Creation-Date: 2022-06-20 10:56+0200\n"
+"PO-Revision-Date: 2022-07-07 19:30+0200\n"
+"Last-Translator: Kerk en IT <info@kerkenit.nl>\n"
+"Language-Team: Marco van 't Klooster <info@kerkenit.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/settings.php:27
+msgid ""
+"You can get the API keys in the portal. You can find the key in the settings "
+"page. You should probably ask the administrator to get the API keys"
+msgstr ""
+"U kunt de API-sleutels verkrijgen in de portal. U kunt de sleutel vinden op "
+"de instellingenpagina. U moet waarschijnlijk de beheerder vragen om de API-"
+"sleutels op te halen"
+
+#: admin/settings.php:27
+msgid "Go to the portal"
+msgstr "Ga naar het portaal"
+
+#: admin/settings.php:33
+msgid "Private key"
+msgstr "Persoonlijke sleutel"
+
+#: admin/settings.php:45
+msgid "Public key"
+msgstr "Publieke sleutel"
+
+#: admin/settings.php:56
+msgid "WooCommerce integration"
+msgstr "WooCommerce integratie"
+
+#: admin/settings.php:57
+msgid ""
+"You can use Pro Missa to enable a webshop with <a href=\"https://woocommerce."
+"com\" target=\"_blank\">WooCommerce</a> where parishioners can order a "
+"intention which will be processed into the intention flow in Pro Missa"
+msgstr ""
+"U kunt Pro Missa gebruiken om een webshop met <a href=\"https://woocommerce."
+"com\" target=\"_blank\">WooCommerce</a> in te schakelen waar parochianen een "
+"misintentie kunnen bestellen die zal worden verwerkt in de intentie module "
+"in Pro Missa"
+
+#: admin/settings.php:57
+msgid "More information"
+msgstr "Meer informatie"
+
+#: admin/settings.php:63
+msgid "Intention product for weekdays"
+msgstr "Intentie product voor weekdagen"
+
+#: admin/settings.php:75
+msgid "Intention product for Sun- and feastdays"
+msgstr "Intentie product voor zon- en feestdagen"
+
+#: admin/settings.php:89
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/settings.php:91
+msgid "Reset"
+msgstr "Ongedaan maken"
+
+#: functions.php:115 functions.php:150 functions.php:188 functions.php:225
+#: functions.php:555
+msgid "sunday"
+msgstr "zondag"
+
+#: functions.php:116 functions.php:151 functions.php:189 functions.php:226
+#: functions.php:543
+msgid "monday"
+msgstr "maandag"
+
+#: functions.php:117 functions.php:152 functions.php:190 functions.php:227
+#: functions.php:545
+msgid "tuesday"
+msgstr "dinsdag"
+
+#: functions.php:118 functions.php:153 functions.php:191 functions.php:228
+#: functions.php:547
+msgid "wednesday"
+msgstr "woensdag"
+
+#: functions.php:119 functions.php:154 functions.php:192 functions.php:229
+#: functions.php:549
+msgid "thursday"
+msgstr "donderdag"
+
+#: functions.php:120 functions.php:155 functions.php:193 functions.php:230
+#: functions.php:551
+msgid "friday"
+msgstr "vrijdag"
+
+#: functions.php:121 functions.php:156 functions.php:194 functions.php:231
+#: functions.php:553
+msgid "saturday"
+msgstr "zaterdag"
+
+#: functions.php:124 functions.php:160 functions.php:197 functions.php:234
+#: functions.php:274
+msgid "January"
+msgstr "januari"
+
+#: functions.php:125 functions.php:161 functions.php:198 functions.php:235
+#: functions.php:275
+msgid "February"
+msgstr "februari"
+
+#: functions.php:126 functions.php:162 functions.php:199 functions.php:236
+#: functions.php:276
+msgid "March"
+msgstr "maart"
+
+#: functions.php:127 functions.php:163 functions.php:200 functions.php:237
+#: functions.php:277
+msgid "April"
+msgstr "april"
+
+#: functions.php:128 functions.php:164 functions.php:201 functions.php:238
+#: functions.php:278
+msgid "May"
+msgstr "mei"
+
+#: functions.php:129 functions.php:165 functions.php:202 functions.php:239
+#: functions.php:279
+msgid "June"
+msgstr "juni"
+
+#: functions.php:130 functions.php:166 functions.php:203 functions.php:240
+#: functions.php:280
+msgid "July"
+msgstr "juli"
+
+#: functions.php:131 functions.php:167 functions.php:204 functions.php:241
+#: functions.php:281
+msgid "August"
+msgstr "augustus"
+
+#: functions.php:132 functions.php:168 functions.php:205 functions.php:242
+#: functions.php:282
+msgid "September"
+msgstr "september"
+
+#: functions.php:133 functions.php:169 functions.php:206 functions.php:243
+#: functions.php:283
+msgid "October"
+msgstr "oktober"
+
+#: functions.php:134 functions.php:170 functions.php:207 functions.php:244
+#: functions.php:284
+msgid "November"
+msgstr "november"
+
+#: functions.php:135 functions.php:171 functions.php:208 functions.php:245
+#: functions.php:285
+msgid "December"
+msgstr "december"
+
+#. Plugin Name of the plugin/theme
+#: promissa.php:42 promissa.php:43
+msgid "Pro Missa"
+msgstr "Pro Missa"
+
+#: shortcodes/calendar.php:111
+msgid "Location"
+msgstr "Locatie"
+
+#: shortcodes/calendar.php:115 shortcodes/intentions_from.php:122
+#: shortcodes/intentions_from.php:244 shortcodes/intentions_from.php:271
+#: shortcodes/intentions_from.php:347 shortcodes/intentions_from.php:361
+#: shortcodes/intentions_from.php:410
+msgid "Date"
+msgstr "Datum"
+
+#: shortcodes/calendar.php:119
+msgid "Time"
+msgstr "Aanvang"
+
+#: shortcodes/calendar.php:124
+msgid "Note"
+msgstr "Opmerking"
+
+#: shortcodes/calendar.php:147 shortcodes/corona.php:143 shortcodes/form.php:29
+#: shortcodes/form.php:30 shortcodes/form.php:86 shortcodes/intentions.php:164
+#: shortcodes/intentions_from.php:24 shortcodes/upcoming_mass.php:105
+msgid "at"
+msgstr "om"
+
+#: shortcodes/calendar.php:147 shortcodes/corona.php:143 shortcodes/form.php:86
+#: shortcodes/form.php:92 shortcodes/intentions.php:168
+#: shortcodes/intentions_from.php:24 shortcodes/upcoming_mass.php:109
+msgid "hour"
+msgstr "uur"
+
+#: shortcodes/intentions.php:172
+msgid "Announcements"
+msgstr "Mededelingen"
+
+#: shortcodes/intentions.php:174
+msgid "Funeral(s) from this week"
+msgstr "Uitvaart(en) van deze week"
+
+#: shortcodes/intentions.php:176
+msgid "Baptize(s) from this week"
+msgstr "Doopsel(s) van deze week"
+
+#: shortcodes/intentions.php:178
+msgid "Marriage(s) from this week"
+msgstr "Huwelijk(en) van deze week"
+
+#: shortcodes/intentions_from.php:26
+msgid "On"
+msgstr "Op"
+
+#: shortcodes/intentions_from.php:26
+msgid "during the"
+msgstr "tijdens de"
+
+#: shortcodes/intentions_from.php:26
+msgid "from the"
+msgstr "van de"
+
+#: shortcodes/intentions_from.php:26
+msgid "in"
+msgstr "in"
+
+#: shortcodes/intentions_from.php:112 shortcodes/intentions_from.php:238
+#: shortcodes/intentions_from.php:268 shortcodes/intentions_from.php:344
+#: shortcodes/intentions_from.php:358 shortcodes/intentions_from.php:407
+msgid "Church"
+msgstr "Kerk"
+
+#: shortcodes/intentions_from.php:112 shortcodes/intentions_from.php:122
+#: shortcodes/intentions_from.php:128
+msgid "Required"
+msgstr "Verplicht"
+
+#: shortcodes/intentions_from.php:114
+msgid "Choose a church"
+msgstr "Kies een kerk"
+
+#: shortcodes/intentions_from.php:128 shortcodes/intentions_from.php:250
+#: shortcodes/intentions_from.php:274 shortcodes/intentions_from.php:338
+#: shortcodes/intentions_from.php:349 shortcodes/intentions_from.php:363
+#: shortcodes/intentions_from.php:413
+msgid "Intention"
+msgstr "Misintentie"
+
+#: shortcodes/intentions_from.php:146
+msgid "Church is required!"
+msgstr "Kerk is vereist!"
+
+#: shortcodes/intentions_from.php:154
+msgid "Intention is required!"
+msgstr "Intentie is vereist!"
+
+#: shortcodes/intentions_from.php:162
+msgid "Date is required!"
+msgstr "Datum is vereist"
+
+#: shortcodes/intentions_from.php:191
+msgid "This Mass intention cannot be ordered on the chosen date!"
+msgstr "Deze misintentie is niet te bestellen op de gekozen datum!"
+
+#: shortcodes/intentions_from.php:193
+#, php-format
+msgid "<a href=\"%s\"><strong>Order here a intension for %s</strong></a>"
+msgstr "<a href=\"%s\"><strong>Bestel hier een intentie voor %s</strong></a>"
+
+#: shortcodes/intentions_from.php:232 shortcodes/intentions_from.php:265
+#: shortcodes/intentions_from.php:341 shortcodes/intentions_from.php:355
+#: shortcodes/intentions_from.php:398
+msgid "Mass"
+msgstr "Mis"
+
+#: shortcodes/upcoming_mass.php:89
+msgid "Soon"
+msgstr "Binnenkort"
+
+#: shortcodes/upcoming_mass.php:90
+msgid "Now"
+msgstr "Nu"
+
+#: shortcodes/upcoming_mass.php:90
+msgid "Today"
+msgstr "Vandaag"
+
+#: shortcodes/upcoming_mass.php:92
+msgid "Tomorrow"
+msgstr "Morgen"
+
+#: shortcodes/upcoming_mass.php:92
+msgid "Upcoming"
+msgstr "Aanstaande"
+
+#: shortcodes/upcoming_mass.php:123 shortcodes/upcoming_mass.php:125
+msgid "in the"
+msgstr "in de"
+
+#: shortcodes/upcoming_mass.php:142
+msgid "Order intention online"
+msgstr "Bestel misintentie online"
+
+#: widgets/corona.php:13 widgets/upcoming_mass.php:12
+msgid ""
+"This widget will show the upcoming mass times. This is recommended if your "
+"primary target audience are seekers to faith."
+msgstr ""
+"Deze widget toont de aanstaande mistijden. Dit wordt aanbevolen als je "
+"primaire doelgroep de zoekers naar geloof."
+
+#: widgets/corona.php:16 widgets/upcoming_mass.php:15
+msgid "Upcoming Masses"
+msgstr "Komende vieringen"
+
+#: widgets/corona.php:77 widgets/upcoming_mass.php:76
+msgid "Next Masses"
+msgstr "Komende vieringen"
+
+#: widgets/corona.php:86 widgets/upcoming_mass.php:85
+msgid "Title:"
+msgstr "Titel:"
+
+#: widgets/corona.php:90 widgets/upcoming_mass.php:89
+msgid "Subtitle:"
+msgstr "Ondertitel:"
+
+#: widgets/corona.php:94 widgets/upcoming_mass.php:93
+msgid "Church:"
+msgstr "Kerk:"
+
+#: widgets/corona.php:98 widgets/upcoming_mass.php:97
+msgid "All churches:"
+msgstr "Alle Kerkgebouwen:"
+
+#: widgets/corona.php:107 widgets/upcoming_mass.php:106
+msgid "Count:"
+msgstr "Aantal:"
+
+#: widgets/corona.php:118 widgets/upcoming_mass.php:117
+msgid "Page:"
+msgstr "Pagina:"
+
+#: widgets/corona.php:129 widgets/upcoming_mass.php:128
+msgid "Show title:"
+msgstr "Toon titel:"
+
+#: widgets/corona.php:134 widgets/corona.php:145 widgets/upcoming_mass.php:133
+#: widgets/upcoming_mass.php:144
+msgid "No"
+msgstr "Nee"
+
+#: widgets/corona.php:134 widgets/corona.php:145 widgets/upcoming_mass.php:133
+#: widgets/upcoming_mass.php:144
+msgid "Yes"
+msgstr "Ja"
+
+#: widgets/corona.php:140 widgets/upcoming_mass.php:139
+msgid "Show attendees:"
+msgstr "Toon aanwezigen:"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.promissa.nl/plugins/wordpress"
+msgstr "https://www.promissa.nl/plugins/wordpress"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin will give you shortcodes and widgets with the latest masses and "
+"events of Pro Missa."
+msgstr ""
+"Deze plug-in geeft je shortcodes en widgets met de nieuwste missen en "
+"evenementen van Pro Missa."
+
+#. Author of the plugin/theme
+msgid "Kerk en IT"
+msgstr "Kerk en IT"
+
+#. Author URI of the plugin/theme
+msgid "https://www.kerkenit.nl"
+msgstr "https://www.kerkenit.nl"
+
+#~ msgid "mondays"
+#~ msgstr "maandags"
+
+#~ msgid "tuesdays"
+#~ msgstr "dinsdags"
+
+#~ msgid "wednesdays"
+#~ msgstr "woensdags"
+
+#~ msgid "thursdays"
+#~ msgstr "donderdags"
+
+#~ msgid "fridays"
+#~ msgstr "vrijdags"
+
+#~ msgid "saturdays"
+#~ msgstr "zaterdags"
+
+#~ msgid "sundays"
+#~ msgstr "zondags"
+
+#~ msgid "Every"
+#~ msgstr "Elke"
+
+#~ msgid ""
+#~ "This widget will show all mass times. This is recommended if your primary "
+#~ "target audience are the parishioners."
+#~ msgstr ""
+#~ "Deze widget zal alle mistijden tonen. Dit wordt aanbevolen als je "
+#~ "primaire doelgroep de parochianen zijn."
+
+#~ msgid "All Masses"
+#~ msgstr "Alle Missen"
+
+#~ msgid "Masses times"
+#~ msgstr "Mis tijden"
+
+#~ msgid "Target Audience"
+#~ msgstr "Doelgroep"
+
+#~ msgid "Parishioners"
+#~ msgstr "Parochianen"
+
+#~ msgid "Evangelization"
+#~ msgstr "Evangelisatie"
+
+#~ msgid "Parishioners and Evangelization"
+#~ msgstr "Parochianen en Evangelisatie"
+
+#~ msgid "Save Changes"
+#~ msgstr "Wijzigingen opslaan"
+
+#~ msgid "Parish"
+#~ msgstr "Parochie"
+
+#~ msgid "Churches"
+#~ msgstr "Kerkgebouwen"
+
+#~ msgid "Masses"
+#~ msgstr "Missen"
+
+#~ msgid "Mass types"
+#~ msgstr "Mis soorten"
+
+#~ msgid "No address found"
+#~ msgstr "Geen adres gevonden"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerk"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deactiveren"
+
+#~ msgid "Activate"
+#~ msgstr "Activeren"
+
+#~ msgid "Delete"
+#~ msgstr "Verwijderen"
+
+#~ msgid "Church name"
+#~ msgstr "Kerk naam"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Edit church"
+#~ msgstr "Kerk bewerken"
+
+#~ msgid "New church"
+#~ msgstr "Nieuwe kerk"
+
+#~ msgid "Add church"
+#~ msgstr "Kerk toevoegen"
+
+#~ msgid "Church not added."
+#~ msgstr "Kerk is niet toegevoegd."
+
+#~ msgid "Church not changed."
+#~ msgstr "Kerk is niet bijgewerkt."
+
+#~ msgid "Church is added."
+#~ msgstr "Kerk is toegevoegd."
+
+#~ msgid "Church is changed."
+#~ msgstr "Kerk is bijgewerkt."
+
+#~ msgid "Zipcode"
+#~ msgstr "Postcode"
+
+#~ msgid "City"
+#~ msgstr "Plaats"
+
+#~ msgid "Diocese"
+#~ msgstr "Bisdom"
+
+#~ msgid "Netherlands"
+#~ msgstr "Nederland"
+
+#~ msgid "Enter Address, then fetch coordinates"
+#~ msgstr "Voer adres in en klik hier om coördinaten op te halen"
+
+#~ msgid "Latitude"
+#~ msgstr "Latitude"
+
+#~ msgid "Longitude"
+#~ msgstr "Longitude"
+
+#~ msgid "Phone"
+#~ msgstr "Telefoon"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Mass type"
+#~ msgstr "Mis soort"
+
+#~ msgid "New mass type"
+#~ msgstr "Nieuwe mis soort"
+
+#~ msgid "Mass type not added."
+#~ msgstr "Mis soort is niet toegevoegd."
+
+#~ msgid "Mass type not changed."
+#~ msgstr "Mis soort is niet bijgewerkt."
+
+#~ msgid "Mass type is added."
+#~ msgstr "Mis soort is toegevoegd."
+
+#~ msgid "Mass type is changed."
+#~ msgstr "Mis soort is bijgewerkt."
+
+#~ msgid "Mass time"
+#~ msgstr "Mis tijd"
+
+#~ msgid "Edit mass"
+#~ msgstr "Bewerk mis"
+
+#~ msgid "Add mass"
+#~ msgstr "Mis toevoegen"
+
+#~ msgid "Mass is added."
+#~ msgstr "Mis is toegevoegd."
+
+#~ msgid "Mass is changed."
+#~ msgstr "Mis is bijgewerkt."
+
+#~ msgid "Day of week"
+#~ msgstr "Dag van de week"
+
+#~ msgid "Monday"
+#~ msgstr "Maandag"
+
+#~ msgid "Thuesday"
+#~ msgstr "Dinsdag"
+
+#~ msgid "Wednesday"
+#~ msgstr "Woensdag"
+
+#~ msgid "Thursday"
+#~ msgstr "Donderdag"
+
+#~ msgid "Friday"
+#~ msgstr "Vrijdag"
+
+#~ msgid "Saturday"
+#~ msgstr "Zaterdag"
+
+#~ msgid "Sunday"
+#~ msgstr "Zondag"
+
+#~ msgid "note"
+#~ msgstr "Aantekeningen"
+
+#~ msgid "Save as new"
+#~ msgstr "Opslaan als nieuw"
+
+#~ msgid "New mass"
+#~ msgstr "Nieuwe mis"
+
+#~ msgid "Address of the church"
+#~ msgstr "Adres van de kerk"
+
+#~ msgid "Postalcode of the church"
+#~ msgstr "Postcode van de kerk"
+
+#~ msgid "Place of the church"
+#~ msgstr "Plaats van de kerk"
+
+#~ msgid "Diocese of the parish"
+#~ msgstr "Bisdom van de parochie"
+
+#~ msgid "Country of the parish"
+#~ msgstr "Land van de parochie"
+
+#~ msgid ""
+#~ "Geographic coordinate that specifies the north-south position of the "
+#~ "church"
+#~ msgstr ""
+#~ "Geografische coördinaten die de de noord-zuid positie van de kerk "
+#~ "specificeren"
+
+#~ msgid ""
+#~ "Geographic coordinate that specifies the east-west position of the church"
+#~ msgstr ""
+#~ "Geografische coördinaten die de de oost-west positie van de kerk "
+#~ "specificeren"
+
+#~ msgid "E-mail to reach the administration of this church"
+#~ msgstr "E-mail om de administratie van deze kerk te bereiken"
+
+#~ msgid "Telephone to reach the administration of this church"
+#~ msgstr "Telefoonnummer om de administratie van deze kerk te bereiken"
+
+#~ msgid "Church is active"
+#~ msgstr "Kerk is actief"
+
+#~ msgid "Type of mass"
+#~ msgstr "Type van de mis"
+
+#~ msgid "Mass type is active"
+#~ msgstr "Mis type is actief"
+
+#~ msgid "Mass type is active in the widgets"
+#~ msgstr "Miss type is actie in de widgets"
+
+#~ msgid "Name of diocese"
+#~ msgstr "Naam van het bisdom"
+
+#~ msgid "Language code"
+#~ msgstr "Taalcodes"
+
+#~ msgid "Mass is active"
+#~ msgstr "Mis is actief"
+
+#~ msgid "Both"
+#~ msgstr "Beide"
+
+#~ msgid "Edit mass type"
+#~ msgstr "Bewerk mis soort"
+
+#~ msgid "Mass Types"
+#~ msgstr "Mis Soorten"
+
+#~ msgid "Hour"
+#~ msgstr "Uur"
+
+#~ msgid "Minute"
+#~ msgstr "Minuut"
+
+#~ msgid "Show your masses times"
+#~ msgstr "Toon de mistijden"
+
+#~ msgid "Mass not added."
+#~ msgstr "Mis is niet toegevoegd."
+
+#~ msgid "Mass not changed."
+#~ msgstr "Mis is niet bijgewerkt."
+
+#~ msgid "Mass name"
+#~ msgstr "Mis naam"
+
+#~ msgid "Submit"
+#~ msgstr "Wijzigingen opslaan"
+
+#~ msgid "Enter church name"
+#~ msgstr "Voer kerk naam in"
+
+#~ msgid "Enter address"
+#~ msgstr "Voer adres in"
+
+#~ msgid "Enter zipcode"
+#~ msgstr "Voer postcode in"
+
+#~ msgid "Enter city"
+#~ msgstr "Voer plaats in"
